@@ -1,0 +1,101 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/stepa/Documents/ECE_551/hw3/UART
+vss_A2D
+Z0 !s110 1602813089
+!i10b 1
+!s100 iI4[IHbbC?D4<TP@K8Uan0
+I[]SOl:1OYcJ_7DI6Jzi^i2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/stepa/Documents/ECE_551/hw3/A2D
+w1602800895
+8C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D.v
+FC:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1602813089.000000
+!s107 C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+nss_@a2@d
+vss_A2D_datapath
+R0
+!i10b 1
+!s100 `6JhgMhkW8gHk<H7?SL2G0
+I;Ch8BaJ[Flcm=SYIica1W1
+R1
+R2
+w1602800898
+8C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_datapath.v
+FC:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_datapath.v|
+!s101 -O0
+!i113 1
+R5
+nss_@a2@d_datapath
+vss_A2D_SM
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1602813899
+!i10b 1
+!s100 MaF>=Ao4@kjIHIgTjELNZ0
+Izi8W?NcYm>1?SCSFhUdPK3
+R1
+!s105 ss_A2D_SM_sv_unit
+S1
+R2
+w1602813877
+8C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_SM.sv
+FC:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_SM.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1602813899.000000
+!s107 C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_SM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_SM.sv|
+!s101 -O0
+!i113 1
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+nss_@a2@d_@s@m
+vss_A2D_tb
+R0
+!i10b 1
+!s100 Z5Kbk:7chaz`6_2^>;>Za0
+ILb9R<acTK^QUeXNgeQUf>1
+R1
+R2
+w1602800894
+8C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_tb.v
+FC:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/stepa/Documents/ECE_551/hw3/A2D/ss_A2D_tb.v|
+!s101 -O0
+!i113 1
+R5
+nss_@a2@d_tb
